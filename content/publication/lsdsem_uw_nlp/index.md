@@ -5,7 +5,6 @@ authors:
 - maarten
 - yannis
 - lizilles
-- li
 - yejin
 - noah
 publication_types: ["1"]

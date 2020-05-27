@@ -13,5 +13,5 @@ superuser: false
 social:
 - icon: home
   icon_pack: fas
-  link: 'http://allenai.org/team/waleeda/'
+  link: 'https://wammar.github.io/'
 ---

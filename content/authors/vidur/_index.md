@@ -13,5 +13,5 @@ superuser: false
 social:
 - icon: home
   icon_pack: fas
-  link: 'https://scholar.google.com/citations?user=NobF_hEAAAAJhttps://gabrielstanovsky.github.io/hl'
+  link: 'https://scholar.google.com/citations?user=NobF_hEAAAAJ'
 ---
