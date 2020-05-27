@@ -1,6 +1,6 @@
 ---
 # Display name
-title: <a href='http://allenai.org/team/waleeda/' target='blank'>Waleed Ammar</a>
+title: <a href='https://wammar.github.io/' target='blank'>Waleed Ammar</a>
 
 # Username (this should match the folder name)
 authors:
