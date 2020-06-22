@@ -4,7 +4,7 @@ title: <a href='https://suchin.io/' target='blank'>Suchin Gururangan</a>
 
 # Username (this should match the folder name)
 authors:
-- suchin=
+- suchin
 
 # Is this the primary user of the site?
 superuser: false
