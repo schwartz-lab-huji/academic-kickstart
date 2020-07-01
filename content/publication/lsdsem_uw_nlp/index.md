@@ -7,7 +7,7 @@ authors:
 - lizilles
 - yejin
 - noah
-publication_types: ["1"]
+publication_types: ["9"]
 Date: 2017-07-01
 publishDate: 2020-04-01T00:00:00Z
 publication: In *Proc. of LSDSem 2017 shared task* <span style="color:red">Best performing system</span>

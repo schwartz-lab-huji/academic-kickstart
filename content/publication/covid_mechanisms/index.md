@@ -6,7 +6,7 @@ authors:
 - davidwadden
 - me
 - hannaneh
-publication_types: ["1"]
+publication_types: ["9"]
 Date: 2020-06-19
 publishDate: 2020-06-19T00:00:00Z
 publication: In *Proc. of SciNLP*

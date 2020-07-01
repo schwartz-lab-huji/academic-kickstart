@@ -6,7 +6,7 @@ authors:
 - me
 - chenhao
 - noah
-publication_types: ["1"]
+publication_types: ["9"]
 Date: 2018-07-01
 publishDate: 2020-04-01T00:00:00Z
 publication: In *Proc. of RepL4NLP 2018* <span style="color:red">Best paper award</span>
