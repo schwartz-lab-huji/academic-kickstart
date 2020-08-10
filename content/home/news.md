@@ -19,6 +19,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  title = "Thank you <a href='https://allenai.org/' target='_blank'>AI2</a>!"
+  url = ""
+  date_start = "2020-08-10"
+  date_end = ""
+  description = "For four wonderful years, and for the generous research gift."
+
+[[item]]
   title = "We are hiring!"
   url = ""
   date_start = "2020-05-01"

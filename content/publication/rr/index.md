@@ -16,4 +16,5 @@ links:
 url_pdf: 'https://arxiv.org/abs/1808.09357'
 url_slides: 'https://homes.cs.washington.edu/~hapeng/slides/peng2018rational.pdf'
 url_code: 'https://github.com/Noahs-ARK/rational-recurrences'
+url_video: 'https://vimeo.com/305209046'
 ---

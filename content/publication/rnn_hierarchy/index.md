@@ -17,4 +17,5 @@ tags:
 - understanding_models 
 links:
 url_pdf: 'https://arxiv.org/abs/2004.08500'
+url_video: 'https://slideslive.com/38928908/a-formal-hierarchy-of-rnn-architectures'
 ---

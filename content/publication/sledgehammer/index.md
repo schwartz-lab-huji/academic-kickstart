@@ -16,4 +16,5 @@ tags:
 links:
 url_pdf: 'http://arxiv.org/abs/2004.07453'
 url_code: 'https://github.com/allenai/sledgehammer'
+url_video: 'https://slideslive.com/38929251/the-right-tool-for-the-job-matching-model-and-instance-complexities'
 ---

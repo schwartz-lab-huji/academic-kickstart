@@ -15,4 +15,5 @@ links:
 url_pdf: 'https://arxiv.org/abs/1904.02668'
 url_slides: 'https://cs.stanford.edu/~nfliu/papers/liu+schwartz+smith.naacl2019.slides.pdf'
 url_code: 'https://github.com/nelson-liu/inoculation-by-finetuning'
+url_video: 'https://vimeo.com/364712933'
 ---

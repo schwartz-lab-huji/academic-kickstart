@@ -19,4 +19,5 @@ url_dataset: 'https://github.com/rowanz/swagaf/tree/master/data'
 url_slides: 'https://drive.google.com/file/d/1nRJDlDNVsbBf75tmYIwZj48HM9l4kIxA/view'
 url_code: 'https://github.com/rowanz/swagaf'
 url_project: 'https://rowanzellers.com/swag/'
+url_video: 'https://vimeo.com/channels/1427394/305195438'
 ---
