@@ -25,7 +25,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:roys@cse.huji.ac.il'
+  link: 'mailto:roys@cs.huji.ac.il'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/royschwartz02
@@ -63,7 +63,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "roys@cse.huji.ac.il"
+email: "roys@cs.huji.ac.il"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

@@ -16,7 +16,7 @@ header:
 We are looking for curious and motivated students and postdocs from diverse backgrounds, 
 who are interested in natural language processing.
 If you are looking for a postdoc, Ph.D., Masters, undergrad project or summer internship,
-please <a href="mailto:roys@cse.huji.ac.il">email Roy</a>, 
+please <a href="mailto:roys@cs.huji.ac.il">email Roy</a>, 
 attach a 2-page CV, and briefly describe your research interests. 
 <!--Note that Roy is currently still in Seattle, but he is happy to chat with prospective students and potentially start remote collaboration.-->
 </div>
