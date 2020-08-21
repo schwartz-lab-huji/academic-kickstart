@@ -33,11 +33,6 @@
   url = "talk/"
   weight = 50
 
-#[[main]]
-#  name = "Contact"
-#  url = "#contact"
-#  weight = 70
-
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
@@ -46,8 +41,13 @@
 #    weight = 80
 
 [[main]]
-  name = "Join us!"
+  name = "<b>Join us!</b>"
   url = "joinus/"
   weight = 90
+
+[[main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 100
 
 
