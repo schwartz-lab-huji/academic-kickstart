@@ -19,6 +19,11 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  title = "New paper accepted to EMNLP 2020"
+  date_start = "2020-09-01"
+  description = "Congrats to Swabha! See <a href='publication'>Publications page</a> for more info."
+
+[[item]]
   title = "Thank you <a href='https://allenai.org/' target='_blank'>AI2</a>!"
   url = ""
   date_start = "2020-08-10"
@@ -37,9 +42,5 @@ date_format = "Jan 2006"
   date_start = "2019-07-01"
   description = "And its news coverage at <a href='https://www.nytimes.com/2019/09/26/technology/ai-computer-expense.html' target='_blank'>NYT</a>, <a href='https://fortune.com/2019/07/30/artificial-intelligence-content-moderation/' target='_blank'>Fortune</a>, <a href='https://www.haaretz.co.il/captain/software/.premium-1.819476' target='_blank'>Haaretz</a>, and others! Click <a href='publication/greenai/'>here</a> for more info."
   
-[[item]]
-  title = "Three papers accepted to ACL 2020"
-  date_start = "2020-04-01"
-  description = "Congrats to Hao, Will and Gail! See <a href='publication'>Publications page</a> for more info."
 
 +++
