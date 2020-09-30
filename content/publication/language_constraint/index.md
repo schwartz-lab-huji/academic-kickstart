@@ -9,8 +9,8 @@ authors:
 - yejin
 - noah
 publication_types: ["1"]
-Date: 2017-07-01
-publishDate: 2020-04-01T00:00:00Z
+Date: 2017-02-01
+publishDate: 2017-07-01T00:00:00Z
 publication: In *Proc. of CoNLL 2017*
 abstract: "A writer's style depends not just on personal traits but also on her intent and mental state. In this paper, we show how variants of the same writing task can lead to measurable differences in writing style. We present a case study based on the story cloze task (Mostafazadeh et al., 2016a), where annotators were assigned similar writing tasks with different constraints: (1) writing an entire story, (2) adding a story ending for a given story context, and (3) adding an incoherent ending to a story. We show that a simple linear classifier informed by stylistic features is able to successfully distinguish among the three cases, without even looking at the story context. In addition, combining our stylistic features with language model predictions reaches state of the art performance on the story cloze challenge. Our results demonstrate that different task framings can dramatically affect the way people write."
 tags:

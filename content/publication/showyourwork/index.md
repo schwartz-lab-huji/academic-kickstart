@@ -6,7 +6,7 @@ authors:
 - suchin
 - dallas
 - me
-- noah)
+- noah
 publication_types: ["1"]
 Date: 2019-07-01
 publishDate: 2020-04-01T00:00:00Z

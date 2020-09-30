@@ -7,8 +7,8 @@ authors:
 - me
 - yejin
 publication_types: ["1"]
-Date: 2018-07-01
-publishDate: 2020-04-01T00:00:00Z
+Date: 2018-08-01
+publishDate: 2018-10-31T00:00:00Z
 publication: In *Proc. of EMNLP 2018*
 abstract: "Given a partial description like 'she opened the hood of the car', humans can reason about the situation and anticipate what might come next ('then, she examined the engine'). In this paper, we introduce the task of grounded commonsense inference, unifying natural language inference and commonsense reasoning.<br>We present SWAG, a new dataset with 113k multiple choice questions about a rich spectrum of grounded situations. To address the recurring challenges of the annotation artifacts and human biases found in many existing datasets, we propose Adversarial Filtering (AF), a novel procedure that constructs a de-biased dataset by iteratively training an ensemble of stylistic classifiers, and using them to filter the data. To account for the aggressive adversarial filtering, we use state-of-the-art language models to massively oversample a diverse set of potential counterfactuals. Empirical results demonstrate that while humans can solve the resulting inference problems with high accuracy (88%), various competitive models struggle on our task. We provide comprehensive analysis that indicates significant opportunities for future research."
 tags:
