@@ -14,5 +14,6 @@ abstract: "The computations required for deep learning research have been doubli
 tags:
 - greenai
 links:
-url_pdf: 'https://arxiv.org/abs/1907.10597'
+url_pdf: 'https://cacm.acm.org/magazines/2020/12/248800-green-ai/fulltext'
+url_video: 'https://vimeo.com/473074499'
 ---
