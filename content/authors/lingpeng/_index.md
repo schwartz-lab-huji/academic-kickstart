@@ -1,10 +1,10 @@
 ---
 # Display name
-title: <a href='http://homes.cs.washington.edu/~hapeng/' target='blank'>Hao Peng</a>
+title: <a href='https://ikekonglp.github.io/' target='blank'>Lingpeng Kong</a>
 
 # Username (this should match the folder name)
 authors:
-- hao
+- lingpeng
 
 # Is this the primary user of the site?
 superuser: false
@@ -12,5 +12,5 @@ superuser: false
 social:
 - icon: home
   icon_pack: fas
-  link: 'http://homes.cs.washington.edu/~hapeng/' 
+  link: 'https://ikekonglp.github.io/'
 ---

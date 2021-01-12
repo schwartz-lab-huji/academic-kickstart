@@ -1,6 +1,6 @@
 ---
 # Display name
-title: <a href='http://homes.cs.washington.edu/~hapeng/' target='blank'>Hao Peng</a>
+title: <a href='https://dyogatama.github.io/' target='blank'>Dani Yogatama</a>
 
 # Username (this should match the folder name)
 authors:
@@ -12,5 +12,5 @@ superuser: false
 social:
 - icon: home
   icon_pack: fas
-  link: 'http://homes.cs.washington.edu/~hapeng/' 
+  link: 'https://dyogatama.github.io/'
 ---

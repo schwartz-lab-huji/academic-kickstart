@@ -19,6 +19,11 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  title = "New paper accepted to ICLR 2021 with <span style='color:red'>spotlight presentation</span>"
+  date_start = "2021-01-12"
+  description = "Congrats to Hao! See <a href='publication'>Publications page</a> for more info."
+
+[[item]]
   title = "The <span style='color:darkgreen'>Green AI</span> paper appears on the cover of CACM!"
   date_start = "2020-11-19"
   description = "Check out <a href='https://cacm.acm.org/magazines/2020/12/248800-green-ai/fulltext' target='_blank'>the paper</a> and the accompanying <a href='https://vimeo.com/473074499' target='_blank'>video</a>."
