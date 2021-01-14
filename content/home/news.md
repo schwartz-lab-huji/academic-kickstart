@@ -43,13 +43,6 @@ date_format = "Jan 2006"
   description = "For four wonderful years, and for the generous research gift."
 
 [[item]]
-  title = "We are hiring!"
-  url = ""
-  date_start = "2020-05-01"
-  date_end = ""
-  description = "For more information, see our <a href='joinus/'>join us page</a>."
-
-[[item]]
   title = "Check out our opinion piece on <a href='https://arxiv.org/abs/1907.10597' target='_blank'><span style='color:darkgreen'>Green AI</span></a>"
   date_start = "2019-07-01"
   description = "And its news coverage at <a href='https://www.nytimes.com/2019/09/26/technology/ai-computer-expense.html' target='_blank'>NYT</a>, <a href='https://fortune.com/2019/07/30/artificial-intelligence-content-moderation/' target='_blank'>Fortune</a>, <a href='https://www.haaretz.co.il/captain/software/.premium-1.819476' target='_blank'>Haaretz</a>, and others! Click <a href='publication/greenai/'>here</a> for more info."
