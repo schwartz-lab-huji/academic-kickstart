@@ -2,11 +2,11 @@
 title: "Random Feature Attention"
 authors:
 - hao
-- lingpeng
 - nikos
 - dani
 - me
 - noah
+- lingpeng
 publication_types: ["1"]
 Date: 2021-01-12
 publishDate: 2020-05-04T00:00:00Z
