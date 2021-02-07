@@ -15,5 +15,6 @@ abstract: 'The urgency of mitigating COVID-19 has spawned a large and diverse bo
 links:
 url_pdf: 'https://arxiv.org/abs/2010.03824'
 url_dataset: 'https://github.com/AidaAmini/DyGIE-COFIE'
+url_project: 'https://covidmechanisms-biomed.apps.allenai.org/'
 
 ---
