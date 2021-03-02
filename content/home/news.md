@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Check out the new Practical AI episode about Green AI"
+  title = "Check out the new Practical AI episode about <span style='color:darkgreen'>Green AI</span>" 
   date_start = "2021-03-01"
   description = '<audio data-theme="night" data-src="https://changelog.com/practicalai/124/embed" src="https://cdn.changelog.com/uploads/practicalai/124/practical-ai-124.mp3" preload="none" class="changelog-episode" controls></audio><p><a href="https://changelog.com/practicalai/124">Practical AI 124: Green AI 🌲</a> – Listen on <a href="https://changelog.com/">Changelog.com</a></p><script async src="//cdn.changelog.com/embed.js"></script>'
 
