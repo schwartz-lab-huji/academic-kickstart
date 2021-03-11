@@ -17,5 +17,5 @@ tags:
 - understanding_models
 
 links:
-url_pdf: 'https://openreview.net/pdf?id=QtTKTdVrFBB'
+url_pdf: 'https://arxiv.org/abs/2103.02143'
 ---

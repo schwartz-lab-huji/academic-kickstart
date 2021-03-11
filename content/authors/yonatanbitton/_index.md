@@ -1,7 +1,8 @@
 ---
 # Display name
 
-Title: Yonatan Bitton (Co-advised with <a href="https://gabrielstanovsky.github.io/" target="_blank">Gabriel Stanovsky</a>)
+Title: Yonatan Bitton 
+Subtitle: (Co-advised with <a href="https://gabrielstanovsky.github.io/" target="_blank">Gabriel Stanovsky</a>)
 # Username (this should match the folder name)
 authors:
 - yonatanbitton
