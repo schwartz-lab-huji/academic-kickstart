@@ -3,7 +3,6 @@ title: "How Well Do Distributional Models Capture Different Types of Semantic Kn
 authors:
 - dana
 - effi
-- 
 - me
 - ari
 publication_types: ["1"]
