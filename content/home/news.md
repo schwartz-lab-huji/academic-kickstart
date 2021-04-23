@@ -20,6 +20,11 @@ date_format = "Jan 2006"
 
 
 [[item]]
+  title = "New paper accepted to TACL"
+  date_start = "2021-04-22"
+  description = "Congrats to Will! See <a href='publication'>Publications page</a> for more info."
+
+[[item]]
   title = "Two papers accepted to NAACL 2021"
   date_start = "2021-03-10"
   description = "Congrats to Yonatan, Tom and Aida! See <a href='publication'>Publications page</a> for more info."
