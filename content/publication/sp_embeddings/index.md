@@ -14,6 +14,6 @@ tags:
 links:
 url_pdf: 'https://www.aclweb.org/anthology/K15-1026.pdf'
 url_slides: 'slides.pdf'
-url_video: 'http://techtalks.tv/talks/symmetric-pattern-based-word-embeddings-for-improved-word-similarity-prediction/61868/'
+#url_video: 'http://techtalks.tv/talks/symmetric-pattern-based-word-embeddings-for-improved-word-similarity-prediction/61868/'
 url_code: 'code.html'
 ---
