@@ -45,6 +45,11 @@
   url = "joinus/"
   weight = 90
 
+#[[main]]
+#  name = "עברית"
+#  url = "author/roy_hebrew/"
+#  weight = 95
+
 [[main]]
   name = "Contact"
   url = "#contact"
