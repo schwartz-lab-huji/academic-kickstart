@@ -20,7 +20,7 @@ Description: ../author/roy-schwartz
 # Organizations/Affiliations
 organizations:
 - name: The Hebrew University of Jerusalem
-  url: ""
+  url: "https://new.huji.ac.il/"
 
 social:
 - icon: envelope

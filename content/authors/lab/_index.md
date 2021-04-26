@@ -14,7 +14,7 @@ role: Professor of Natural Language Processing
 # Organizations/Affiliations
 organizations:
 - name: The Hebrew University of Jerusalem
-  url: ""
+  url: "https://new.huji.ac.il/"
 
 social:
 - icon: envelope
