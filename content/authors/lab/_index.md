@@ -22,7 +22,7 @@ social:
   link: 'mailto:roys@cs.huji.ac.il'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/royschwartz02
+  link: https://twitter.com/royschwartzNLP
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=wvfWo9IAAAAJ&hl=en
