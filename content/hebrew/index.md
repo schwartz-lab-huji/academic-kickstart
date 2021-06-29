@@ -33,5 +33,6 @@ header:
 <li><a href="https://www.haaretz.co.il/captain/software/.premium-1.8194763" target='_blank'>עיתון הארץ</a></li>
 <li><a href="https://www.ynet.co.il/articles/0,7340,L-5567808,00.html" target='_blank'>ראיון ב-Ynet</a></li>
 <li><a href="https://www.cs.huji.ac.il/he/page/5734" target='_blank'>כתבת פרופיל באתר ביה״ס למדעי המחשב</a></li>
+
 </ul>
 
