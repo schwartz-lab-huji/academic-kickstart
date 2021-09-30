@@ -20,6 +20,11 @@ date_format = "Jan 2006"
 
 
 [[item]]
+  title = "New paper accepted to EMNLP 2021, and two more accepted to Findings of EMNLP"
+  date_start = "2021-09-10"
+  description = "Congrats to Will, Yonatan, and Jesse! See <a href='publication'>Publications page</a> for more info."
+
+[[item]]
   title = "New paper accepted to TACL"
   date_start = "2021-04-22"
   description = "Congrats to Will! See <a href='publication'>Publications page</a> for more info."
