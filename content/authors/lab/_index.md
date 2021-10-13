@@ -19,7 +19,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:roys@cs.huji.ac.il'
+  link: 'mailto:roy.schwartz1@mail.huji.ac.il'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/royschwartzNLP
