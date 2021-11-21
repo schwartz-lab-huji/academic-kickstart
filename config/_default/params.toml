@@ -93,7 +93,7 @@ address = {street = "School of Computer Science and Engineering, Edmond Safra Ca
 coordinates = {latitude = "31.776204", longitude = "35.198032"}
 
 # Directions for visitors to locate you.
-directions = "Rothberg Building A, Room A534"
+directions = "Rothberg Building C, Room C503"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
