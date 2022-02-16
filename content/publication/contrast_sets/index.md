@@ -17,4 +17,6 @@ abstract: "Recent works have shown that supervised models often exploit data art
 links:
 url_pdf: 'http://arxiv.org/abs/2103.09591'
 url_code: 'https://github.com/yonatanbitton/AutoGenOfContrastSetsFromSceneGraphs'
+url_video: 'https://www.youtube.com/watch?v=IogU2qbAsm0'
+url_poster: 'https://yonatanbitton.github.io/publication/contrast_sets/contrast_sets_poster.pdf'
 ---

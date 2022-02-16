@@ -17,4 +17,6 @@ abstract: "Masked language modeling (MLM) is one of the key sub-tasks in vision-
 links:
 url_pdf: 'https://arxiv.org/abs/2109.02040'
 url_code: 'https://github.com/yonatanbitton/data_efficient_masked_language_modeling_for_vision_and_language'
+url_video: 'https://www.youtube.com/watch?v=A-KOkb5CURA'
+url_poster: 'https://yonatanbitton.github.io/publication/contrast_sets/contrast_sets_poster.pdf'
 ---
