@@ -20,15 +20,20 @@ date_format = "Jan 2006"
 
 
 [[item]]
+  title = "Two papers accepted to ACL 2022"
+  date_start = "2022-02-23"
+  description = "Congrats to Inbal and Hao! See <a href='publication'>Publications page</a> for more info."
+
+[[item]]
   title = "An awesome lab event in Mt. Herzl!"
   date_start = "2021-10-29"
   description = "<img src='../pics/lab_picnic_10_2021.jpg'>"
 
-[[item]]
-  title = "New paper accepted to EMNLP 2021, and two more accepted to Findings of EMNLP"
-  date_start = "2021-09-10"
-  description = "Congrats to Will, Yonatan, and Jesse! See <a href='publication'>Publications page</a> for more info."
-
+#[[item]]
+#  title = "New paper accepted to EMNLP 2021, and two more accepted to Findings of EMNLP"
+#  date_start = "2021-09-10"
+#  description = "Congrats to Will, Yonatan, and Jesse! See <a href='publication'>Publications page</a> for more info."
+#
 #[[item]]
 #  title = "New paper accepted to TACL"
 #  date_start = "2021-04-22"
