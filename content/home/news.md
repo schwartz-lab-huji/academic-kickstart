@@ -20,6 +20,11 @@ date_format = "Jan 2006"
 
 
 [[item]]
+  title = "Our efficient NLP policy has been officially adopted by the ACL exec!"
+  date_start = "2022-04-04"
+  description = "See <a href='https://www.aclweb.org/adminwiki/images/7/7e/ACL_Efficient_NLP_Policy.pdf'>document link</a> for more details."
+
+[[item]]
   title = "Two papers accepted to ACL 2022"
   date_start = "2022-02-23"
   description = "Congrats to Inbal and Hao! See <a href='publication'>Publications page</a> for more info."
