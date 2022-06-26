@@ -26,8 +26,8 @@ title = "Thank you all attendees of the <a href='https://www.dagstuhl.de/en/prog
 
 
 [[item]] 
-title = "Congrats to Yarden for defending her Master's thesis!"
-  date_start = "2022-05-31"
+title = "Congrats to Yarden and Inbal for defending their Master's theses!"
+  date_start = "2022-06-26"
 
 
 [[item]] 

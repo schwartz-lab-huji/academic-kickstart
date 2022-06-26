@@ -2,6 +2,8 @@
 # Display name
 
 Title: Yarden Tal
+Subtitle: Masters, May 2022
+
 # Username (this should match the folder name)
 authors:
 - yarden
