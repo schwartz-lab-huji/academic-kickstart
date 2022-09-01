@@ -20,6 +20,12 @@ date_format = "Jan 2006"
 
 
 [[item]] 
+title = "I am recruiting a new Master's student to start in the coming semester." 
+  date_start = "2022-09-01"
+  description = "For those who are interested, please fill out <a href=https://forms.gle/LTUKue2kPXgVyKwy8 target='_blank'>this form</a> by <b>15/9/2022</b>."
+
+
+[[item]] 
 title = "Thank you all attendees of the <a href='https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22232' target='_blank'>Efficient NLP workshop</a> in Dagstuhl!"
   date_start = "2022-06-10"
   description = "Workshop report coming soon!<br><br><img src='https://www.dagstuhl.de/Gruppenbilder/22232.01.l.jpg'>"
