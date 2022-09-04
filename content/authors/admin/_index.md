@@ -35,6 +35,9 @@ social:
 - icon: semantic-scholar
   icon_pack: ai
   link: https://www.semanticscholar.org/author/Roy-Schwartz/4671928
+- icon: github
+  icon_pack: fab
+  link: https://github.com/schwartz-lab-NLP
 - icon: cv
   icon_pack: ai
   link: files/CV.pdf
