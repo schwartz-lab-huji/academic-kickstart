@@ -1,6 +1,6 @@
 ---
 # Display name
-title: <a href='http://www.cs.cmu.edu/~dongyeok/' target='blank'>Dongyeop Kang</a>
+title: <a href='http://www.cs.cmu.edu/~dongyeok/' target="_blank" rel="noopener noreferrer">Dongyeop Kang</a>
 
 # Username (this should match the folder name)
 authors:

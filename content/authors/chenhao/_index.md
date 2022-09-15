@@ -1,6 +1,6 @@
 ---
 # Display name
-title: <a href='https://chenhaot.com/' target='blank'>Chenhao Tan</a>
+title: <a href='https://chenhaot.com/' target="_blank" rel="noopener noreferrer">Chenhao Tan</a>
 
 # Username (this should match the folder name)
 authors:

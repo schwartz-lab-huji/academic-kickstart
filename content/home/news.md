@@ -22,11 +22,11 @@ date_format = "Jan 2006"
 [[item]] 
 title = "I am recruiting a new Master's student to start in the coming semester." 
   date_start = "2022-09-01"
-  description = "For those who are interested, please fill out <a href=https://forms.gle/LTUKue2kPXgVyKwy8 target='_blank'>this form</a> by <b>15/9/2022</b>."
+  description = 'For those who are interested, please fill out <a href=https://forms.gle/LTUKue2kPXgVyKwy8 target="_blank" rel="noopener noreferrer">this form</a> by <b>15/9/2022</b>.'
 
 
 [[item]] 
-title = "Thank you all attendees of the <a href='https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22232' target='_blank'>Efficient NLP workshop</a> in Dagstuhl!"
+title = 'Thank you all attendees of the <a href="https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22232" target="_blank" rel="noopener noreferrer">Efficient NLP workshop</a> in Dagstuhl!'
   date_start = "2022-06-10"
   description = "Workshop report coming soon!<br><br><img src='https://www.dagstuhl.de/Gruppenbilder/22232.01.l.jpg'>"
 
@@ -77,7 +77,7 @@ title = "A few new papers accepted recently"
 #[[item]]
 #  title = "Check out the new Practical AI episode about <span style='color:darkgreen'>Green AI</span>" 
 #  date_start = "2021-03-01"
-#  description = '<audio data-theme="night" data-src="https://changelog.com/practicalai/124/embed" src="https://cdn.changelog.com/uploads/practicalai/124/practical-ai-124.mp3" preload="none" class="changelog-episode" controls></audio><p><a href="https://changelog.com/practicalai/124">Practical AI 124: Green AI 🌲</a> – Listen on <a href="https://changelog.com/">Changelog.com</a></p><script async src="//cdn.changelog.com/embed.js"></script>And also the news coverage at <a href="https://www.nytimes.com/2019/09/26/technology/ai-computer-expense.html" target="_blank">NYT</a>, <a href="https://fortune.com/2019/07/30/artificial-intelligence-content-moderation/" target="_blank">Fortune</a>, <a href="https://www.haaretz.co.il/captain/software/.premium-1.819476" target="_blank">Haaretz</a>, and others! Click <a href="publication/greenai/">here</a> for more info.'
+#  description = '<audio data-theme="night" data-src="https://changelog.com/practicalai/124/embed" src="https://cdn.changelog.com/uploads/practicalai/124/practical-ai-124.mp3" preload="none" class="changelog-episode" controls></audio><p><a href="https://changelog.com/practicalai/124">Practical AI 124: Green AI 🌲</a> – Listen on <a href="https://changelog.com/">Changelog.com</a></p><script async src="//cdn.changelog.com/embed.js"></script>And also the news coverage at <a href="https://www.nytimes.com/2019/09/26/technology/ai-computer-expense.html" target="_blank" rel="noopener noreferrer">NYT</a>, <a href="https://fortune.com/2019/07/30/artificial-intelligence-content-moderation/" target="_blank" rel="noopener noreferrer">Fortune</a>, <a href="https://www.haaretz.co.il/captain/software/.premium-1.819476" target="_blank" rel="noopener noreferrer">Haaretz</a>, and others! Click <a href="publication/greenai/">here</a> for more info.'
 
 
 #[[item]]

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: <a href='https://sgailw.cswp.cs.technion.ac.il' target='blank'>Gail Weiss</a>
+title: <a href='https://sgailw.cswp.cs.technion.ac.il' target="_blank" rel="noopener noreferrer">Gail Weiss</a>
 
 # Username (this should match the folder name)
 authors:

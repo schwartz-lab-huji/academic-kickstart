@@ -1,6 +1,6 @@
 ---
 # Display name
-title: <a href='https://levyomer.wordpress.com/' target='blank'>Omer Levy</a>
+title: <a href='https://levyomer.wordpress.com/' target="_blank" rel="noopener noreferrer">Omer Levy</a>
 
 # Username (this should match the folder name)
 authors:

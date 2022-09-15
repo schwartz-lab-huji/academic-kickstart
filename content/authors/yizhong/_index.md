@@ -1,7 +1,7 @@
 ---
 # Display name
 title: 
-title: <a href='https://yizhong-wang.com/' target='blank'>Yizhong Wang</a>
+title: <a href='https://yizhong-wang.com/' target="_blank" rel="noopener noreferrer">Yizhong Wang</a>
 
 
 # Username (this should match the folder name)

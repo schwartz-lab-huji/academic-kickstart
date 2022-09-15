@@ -1,6 +1,6 @@
 ---
 title: "SWAG: A Large-Scale Adversarial Dataset for Grounded Commonsense Inference"
-news: '<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.nytimes.com/2018/11/18/technology/artificial-intelligence-language.html"  target="_blank">NYT</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.themarker.com/wallstreet/.premium-1.6662358"  target="_blank">TheMarker (Hebrew)</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.agendadigitale.eu/cultura-digitale/lintelligenza-artificiale-sfida-il-buon-senso-e-le-emozioni-ecco-perche/"  target="_blank">Agenda Digitale (Italian)</a>'
+news: '<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.nytimes.com/2018/11/18/technology/artificial-intelligence-language.html"  target="_blank" rel="noopener noreferrer">NYT</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.themarker.com/wallstreet/.premium-1.6662358"  target="_blank" rel="noopener noreferrer">TheMarker (Hebrew)</a> <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.agendadigitale.eu/cultura-digitale/lintelligenza-artificiale-sfida-il-buon-senso-e-le-emozioni-ecco-perche/"  target="_blank" rel="noopener noreferrer">Agenda Digitale (Italian)</a>'
 authors:
 - rowan
 - yonatanbisk

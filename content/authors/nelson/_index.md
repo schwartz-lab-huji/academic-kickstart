@@ -1,6 +1,6 @@
 ---
 # Display name
-title: <a href='https://cs.stanford.edu/~nfliu/' target='blank'>Nelson F. Liu</a>
+title: <a href='https://cs.stanford.edu/~nfliu/' target="_blank" rel="noopener noreferrer">Nelson F. Liu</a>
 
 # Username (this should match the folder name)
 authors:

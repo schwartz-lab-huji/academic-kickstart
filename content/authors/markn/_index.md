@@ -1,6 +1,6 @@
 ---
 # Display name
-title: <a href='http://markneumann.xyz' target='blank'>Mark Neumann</a>
+title: <a href='http://markneumann.xyz' target="_blank" rel="noopener noreferrer">Mark Neumann</a>
 
 # Username (this should match the folder name)
 authors:

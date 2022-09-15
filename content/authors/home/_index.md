@@ -1,6 +1,6 @@
 ---
 # Display name
-title: <a href='http://www.cs.huji.ac.il/~roys02/' target='blank'></a>
+title: <a href='http://www.cs.huji.ac.il/~roys02/' target="_blank" rel="noopener noreferrer"></a>
 
 # Username (this should match the folder name)
 authors:

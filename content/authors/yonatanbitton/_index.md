@@ -1,9 +1,9 @@
 ---
 # Display name
 
-Title: <a href='https://yonatanbitton.github.io/' target='blank'>Yonatan Bitton</a>
+Title: <a href='https://yonatanbitton.github.io/' target="_blank" rel="noopener noreferrer">Yonatan Bitton</a>
 
-Subtitle: (Co-advised with <a href="https://gabrielstanovsky.github.io/" target="_blank">Gabriel Stanovsky</a>)
+Subtitle: (Co-advised with <a href="https://gabrielstanovsky.github.io/" target="_blank" rel="noopener noreferrer">Gabriel Stanovsky</a>)
 # Username (this should match the folder name)
 authors:
 - yonatanbitton

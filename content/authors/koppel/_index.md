@@ -1,6 +1,6 @@
 ---
 # Display name
-title: <a href='http://u.cs.biu.ac.il/~koppel/' target='blank'>Moshe Koppel</a>
+title: <a href='http://u.cs.biu.ac.il/~koppel/' target="_blank" rel="noopener noreferrer">Moshe Koppel</a>
 
 # Username (this should match the folder name)
 authors:

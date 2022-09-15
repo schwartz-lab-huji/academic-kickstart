@@ -1,6 +1,6 @@
 ---
 # Display name
-title: <a href='http://www.cs.technion.ac.il/~yahave/' target='blank'>Eran Yahav</a>
+title: <a href='http://www.cs.technion.ac.il/~yahave/' target="_blank" rel="noopener noreferrer">Eran Yahav</a>
 
 # Username (this should match the folder name)
 authors:

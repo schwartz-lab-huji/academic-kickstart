@@ -18,4 +18,5 @@ tags:
 
 links:
 url_pdf: 'https://arxiv.org/abs/2103.02143'
+url_video: 'https://iclr.cc/virtual/2021/poster/3213'
 ---

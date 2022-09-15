@@ -1,6 +1,6 @@
 ---
 # Display name
-title: <a href='https://nik0spapp.github.io/' target='blank'>Nikolaos Pappas</a>
+title: <a href='https://nik0spapp.github.io/' target="_blank" rel="noopener noreferrer">Nikolaos Pappas</a>
 
 # Username (this should match the folder name)
 authors:

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: <a href='https://homes.cs.washington.edu/~jkasai/' target='blank'>Jungo Kasai</a>
+title: <a href='https://homes.cs.washington.edu/~jkasai/' target="_blank" rel="noopener noreferrer">Jungo Kasai</a>
 
 # Username (this should match the folder name)
 authors:

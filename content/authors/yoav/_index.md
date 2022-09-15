@@ -1,6 +1,6 @@
 ---
 # Display name
-title: <a href='https://u.cs.biu.ac.il/~yogo/' target='blank'>Yoav Goldberg</a>
+title: <a href='https://u.cs.biu.ac.il/~yogo/' target="_blank" rel="noopener noreferrer">Yoav Goldberg</a>
 
 # Username (this should match the folder name)
 authors:

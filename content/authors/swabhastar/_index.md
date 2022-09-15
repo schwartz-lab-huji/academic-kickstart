@@ -1,6 +1,6 @@
 ---
 # Display name
-title: <a href='http://www.cs.cmu.edu/~sswayamd/' target='blank'>Swabha Swayamdipta</a>*
+title: <a href='http://www.cs.cmu.edu/~sswayamd/' target="_blank" rel="noopener noreferrer">Swabha Swayamdipta</a>*
 
 # Username (this should match the folder name)
 authors:
