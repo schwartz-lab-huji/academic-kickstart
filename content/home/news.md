@@ -20,9 +20,9 @@ date_format = "Jan 2006"
 
 
 [[item]] 
-title = "I am recruiting a new Master's student to start in the coming semester." 
-  date_start = "2022-09-01"
-  description = 'For those who are interested, please fill out <a href=https://forms.gle/LTUKue2kPXgVyKwy8 target="_blank" rel="noopener noreferrer">this form</a> by <b>15/9/2022</b>.'
+title = "<a href='../publication/winogavil/'>WinoGAViL paper</a> accepted to NeurIPS 2022 Track Datasets and Benchmarks track!"
+  date_start = "2022-09-18"
+  description = 'Congrats to Yonatan, Nitzan and Ron!'
 
 
 [[item]] 
