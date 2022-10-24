@@ -18,6 +18,10 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[item]] 
+title = "A new paper accepted to Findings of EMNLP"
+  date_start = "2022-10-24"
+  description = "Congrats to Michael and Daniel!"
 
 [[item]] 
 title = "<a href='../publication/winogavil/'>WinoGAViL paper</a> accepted to NeurIPS 2022 Track Datasets and Benchmarks track!"
@@ -28,7 +32,7 @@ title = "<a href='../publication/winogavil/'>WinoGAViL paper</a> accepted to Neu
 [[item]] 
 title = 'Thank you all attendees of the <a href="https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22232" target="_blank" rel="noopener noreferrer">Efficient NLP workshop</a> in Dagstuhl!'
   date_start = "2022-06-10"
-  description = "Workshop report coming soon!<br><br><img src='https://www.dagstuhl.de/Gruppenbilder/22232.01.l.jpg'>"
+  description = "Workshop report coming soon!<br><br><img src='../pics/dagstuhl.jpg'>"
 
 
 [[item]] 
@@ -36,10 +40,10 @@ title = "Congrats to Yarden and Inbal for defending their Master's theses!"
   date_start = "2022-06-26"
 
 
-[[item]] 
-title = "A few new papers accepted recently"
-  date_start = "2022-05-15"
-  description = "<ul><li>Yarden's <a href='../publication/size_bias/'>thesis paper</a> about the connection between model size and the level of gender bias was accepted to GeBNLP. Congrats to Yarden and Inbal!</li><li>Jesse's <a href='../publication/carbon/'>paper</a> on measuring the carbon intensity of AI was accepted to FAccT. Congrats to Jesse, Taylor and the rest of the team!</li><li>Roy's <a href='../publication/dont_balance/'>paper</a> with Gabi about the lost battle against spurious correlations was accepted to Findings of NAACL 2022.</li></ul>"
+#[[item]] 
+#title = "A few new papers accepted recently"
+#  date_start = "2022-05-15"
+#  description = "<ul><li>Yarden's <a href='../publication/size_bias/'>thesis paper</a> about the connection between model size and the level of gender bias was accepted to GeBNLP. Congrats to Yarden and Inbal!</li><li>Jesse's <a href='../publication/carbon/'>paper</a> on measuring the carbon intensity of AI was accepted to FAccT. Congrats to Jesse, Taylor and the rest of the team!</li><li>Roy's <a href='../publication/dont_balance/'>paper</a> with Gabi about the lost battle against spurious correlations was accepted to Findings of NAACL 2022.</li></ul>"
  
 
 
