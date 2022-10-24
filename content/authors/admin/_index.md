@@ -89,7 +89,7 @@ In 2004-2005, he was a software engineer at <a href="http://www.checkpoint.com/"
 
 <h1>Teaching</h1>
 
-* Lecturer, Efficient Natural Language Processing: Reading Papers through Role Playing (<a href='https://moodle2.cs.huji.ac.il/nu21/course/view.php?id=67574' target="_blank" rel="noopener noreferrer">21/22</a>). <b>Please read <a target="_blank" rel="noopener noreferrer" href='https://docs.google.com/document/d/1Jc2JS22ZmGzGzyDW7zgRAVWX42-D_xwpo-isH0mDk5M/edit?usp=sharing'>this document</a> before signing up for this class!</b>
+* Lecturer, Efficient Natural Language Processing: Reading Papers through Role Playing (<a href='https://moodle2.cs.huji.ac.il/nu22/course/view.php?id=67574' target="_blank" rel="noopener noreferrer">22/23</a>, <a href='https://moodle2.cs.huji.ac.il/nu21/course/view.php?id=67574' target="_blank" rel="noopener noreferrer">21/22</a>). <b>Please read <a target="_blank" rel="noopener noreferrer" href='https://docs.google.com/document/d/1Jc2JS22ZmGzGzyDW7zgRAVWX42-D_xwpo-isH0mDk5M/edit?usp=sharing'>this document</a> before signing up for this class!</b>
 * Lecturer, Seminar on Natural Language Processing (<a href='https://moodle2.cs.huji.ac.il/nu20/course/view.php?id=67574' target="_blank" rel="noopener noreferrer">20/21</a>)
 * Lecturer, Advanced Practical Machine Learning (<a href='https://moodle2.cs.huji.ac.il/nu20/course/view.php?id=67750' target="_blank" rel="noopener noreferrer">20/21</a>)
 * Lecturer, Object Oriented Programming; Israeli Council of Higher Education Program for Online Digital Learning (2018-2021)
