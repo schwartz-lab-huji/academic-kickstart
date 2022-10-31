@@ -2,7 +2,7 @@
 # Display name
 
 Title: Yarden Tal
-Subtitle: Masters, May 2022
+Subtitle: M.Sc., May 2022 &rarr; <a target="_blank" rel="noopener noreferrer" href='https://www.sparkbeyond.com/'>SparkBeyond</a>
 
 # Username (this should match the folder name)
 authors:
