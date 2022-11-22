@@ -19,12 +19,18 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]] 
-title = "A new paper accepted to Findings of EMNLP"
+title = "A <a href='../publication/vasr/'>new paper</a> accepted to AAAI!"
+  date_start = "2022-11-19"
+  description = 'Congrats to Yonatan!'
+
+
+[[item]] 
+title = "A <a href='../publication/how_much_does_attention/'>new paper</a> accepted to Findings of EMNLP"
   date_start = "2022-10-24"
   description = "Congrats to Michael and Daniel!"
 
 [[item]] 
-title = "<a href='../publication/winogavil/'>WinoGAViL paper</a> accepted to NeurIPS 2022 Track Datasets and Benchmarks track!"
+title = "<a href='../publication/winogavil/'>WinoGAViL paper</a> accepted to NeurIPS 2022 Track Datasets and Benchmarks track as a <span style='color:red'>featured presentation</span>!"
   date_start = "2022-09-18"
   description = 'Congrats to Yonatan, Nitzan and Ron!'
 

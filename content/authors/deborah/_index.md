@@ -18,6 +18,6 @@ superuser: false
 # organizational groups that you belong to (for people widget)
 #   set this to `[]` or comment out if you are not using people widget.
 user_groups:
-- "Masters Students"
+- "<b>Masters Students</b>"
 ---
 
