@@ -20,4 +20,6 @@ tags:
 links:
 url_pdf: 'https://arxiv.org/abs/2211.03495'
 url_code: 'https://github.com/schwartz-lab-NLP/papa'
+news: <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://thegradientpub.substack.com/i/85832049/research-highlight-how-much-does-attention-actually-attend" target="_blank" rel="noopener noreferrer">The Gradient Pub</a>
+
 ---
