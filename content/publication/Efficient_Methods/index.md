@@ -1,5 +1,6 @@
 ---
 title: 'Efficient Methods for Natural Language Processing: A Survey'
+news: '<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://thedataexchange.media/efficient-methods-for-natural-language-processing/"  target="_blank" rel="noopener noreferrer">Podcast (The Data Exchange)</a>'
 authors: 
 - Marcos Treviso
 - Tianchu Ji
