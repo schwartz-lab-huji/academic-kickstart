@@ -17,8 +17,12 @@ subtitle = ""
                  "<b>Postdocs</b>",
                  "<b>PhD Students</b>",
                  "<b>Masters Students</b>",
+#                 "<b>Undergrads</b>",
                  "<b>Lab Project</b>",
-                 "<b>Alumni</b>"]
+                 "<b>Alumni (PhD)</b>",
+                 "<b>Alumni (MSc)</b>",
+                 "<b>Alumni (BSc)</b>",
+]
 
 [design]
   # Show user's social networking links? (true/false)

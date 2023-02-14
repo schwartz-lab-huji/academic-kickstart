@@ -18,6 +18,11 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[item]] 
+title = "Congrats to Boaz, Michael, Aviad, Yuval, and Daniel for defending their Master's theses!"
+  date_start = "2023-02-01"
+
+
 [[item]]
   title = "An awesome lab event in Nahal Halilim!"
   date_start = "2022-11-18"
@@ -47,9 +52,9 @@ title = 'Thank you all attendees of the <a href="https://www.dagstuhl.de/en/prog
   description = "Workshop report coming soon!<br><br><img src='../pics/dagstuhl.jpg'>"
 
 
-[[item]] 
-title = "Congrats to Yarden and Inbal for defending their Master's theses!"
-  date_start = "2022-06-26"
+#[[item]] 
+#title = "Congrats to Yarden and Inbal for defending their Master's theses!"
+#  date_start = "2022-06-26"
 
 
 #[[item]] 
