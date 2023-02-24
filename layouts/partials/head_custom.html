@@ -1,1 +1,3 @@
-<meta name="google-site-verification" content="i9EvyJPM3OvbqeCVATAYSZeMJ_sCeE9ofCu08Dhj30o" />
+{{ if .Site.Params.google_site_verification }}
+ <meta name="google-site-verification" content="{{ .Site.Params.google_site_verification }}" />
+{{ end }}
