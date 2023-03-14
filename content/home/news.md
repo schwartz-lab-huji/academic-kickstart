@@ -35,21 +35,21 @@ title = "A <a href='../publication/vasr/'>new paper</a> accepted to AAAI!"
   description = 'Congrats to Yonatan!'
 
 
-[[item]] 
-title = "A <a href='../publication/how_much_does_attention/'>new paper</a> accepted to Findings of EMNLP"
-  date_start = "2022-10-24"
-  description = "Congrats to Michael and Daniel!"
+#[[item]] 
+#title = "A <a href='../publication/how_much_does_attention/'>new paper</a> accepted to Findings of EMNLP"
+#  date_start = "2022-10-24"
+#  description = "Congrats to Michael and Daniel!"
 
-[[item]] 
-title = "<a href='../publication/winogavil/'>WinoGAViL paper</a> accepted to NeurIPS 2022 Track Datasets and Benchmarks track as a <span style='color:red'>featured presentation</span>!"
-  date_start = "2022-09-18"
-  description = 'Congrats to Yonatan, Nitzan and Ron!'
+#[[item]] 
+#title = "<a href='../publication/winogavil/'>WinoGAViL paper</a> accepted to NeurIPS 2022 Track Datasets and Benchmarks track as a <span style='color:red'>featured presentation</span>!"
+#  date_start = "2022-09-18"
+#  description = 'Congrats to Yonatan, Nitzan and Ron!'
 
 
 [[item]] 
 title = 'Thank you all attendees of the <a href="https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22232" target="_blank" rel="noopener noreferrer">Efficient NLP workshop</a> in Dagstuhl!'
   date_start = "2022-06-10"
-  description = "Workshop report coming soon!<br><br><img src='../pics/dagstuhl.jpg'>"
+  description = "See <a href='https://drops.dagstuhl.de/opus/volltexte/2023/17454/' target='_blank' rel='noopener noreferrer'>workshop report</a> for more details!<br><br><img src='../pics/dagstuhl.jpg'>"
 
 
 #[[item]] 
