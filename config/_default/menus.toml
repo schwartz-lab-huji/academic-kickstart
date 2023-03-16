@@ -51,6 +51,11 @@
   weight = 95
 
 [[main]]
+  name = "מגוון"
+  url = "diversity/"
+  weight = 96
+
+[[main]]
   name = "Contact"
   url = "#contact"
   weight = 100
