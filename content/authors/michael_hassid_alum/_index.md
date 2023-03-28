@@ -1,13 +1,14 @@
 ---
 # Display name
 
-Title: Aviad Sar-Shalom
-Subtitle: 2023 &rarr; <a target="_blank" rel="noopener noreferrer" href='https://vendict.com/'>Vendict</a>
+Title: Michael Hassid
+Subtitle: 2022 &rarr; PhD
+
 # Username (this should match the folder name)
 authors:
-- aviad
+- michael_hassid_alum
 
-weight: -5
+weight: -4
 
 # Is this the primary user of the site?
 superuser: false

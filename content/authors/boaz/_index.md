@@ -2,7 +2,7 @@
 # Display name
 
 Title: Boaz Beldinger
-Subtitle: 2022
+Subtitle: 2022 &rarr; IDF
 # Username (this should match the folder name)
 authors:
 - boaz

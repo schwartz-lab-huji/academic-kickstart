@@ -18,7 +18,7 @@ weight: 1
 
 # organizational groups that you belong to (for people widget)
 #   set this to `[]` or comment out if you are not using people widget.
-user_groups:
-- "<b>Masters Students</b>"
+#user_groups:
+#- "<b>Masters Students</b>"
 ---
 

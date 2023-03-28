@@ -15,18 +15,22 @@ authors:
 - André F. T. Martins
 - Peter Milder
 - Colin Raffel
+- Jessica Forde
 - Edwin Simpson
 - Noam Slonim
+- jesse
+- emma
 - Niranjan Balasubramanian
 - Leon Derczynski
+- iryna
 - me
 
-abstract: "Getting the most out of limited resources allows advances in natural language processing (NLP) research and practice while being conservative with resources. Those resources may be data, time, storage, or energy. Recent work in NLP has yielded interesting results from scaling; however, using only scale to improve results means that resource consumption also scales. That relationship motivates research into efficient methods that require less resources to achieve similar results. This survey relates and synthesises methods and findings in those efficiencies in NLP, aiming to guide new researchers in the field and inspire the development of new methods."
+abstract: "Recent work in natural language processing (NLP) has yielded appealing results from scaling model parameters and training data; however, using only scale to improve performance means that resource consumption also grows. Such resources include data, time, storage, or energy, all of which are naturally limited and unevenly distributed. This motivates research into efficient methods that require fewer resources to achieve similar results. This survey synthesizes and relates current methods and findings in efficient NLP. We aim to provide both guidance for conducting NLP under limited resources, and point towards promising research directions for developing more efficient methods."
 
-publication_types: ["3"]
+publication_types: ["2"]
 Date: 2022-09-01
 publishDate: 2022-09-01
-publication: 'arXiv:2209.00099'
+publication: In *TACL 2023*
 links:
 url_pdf: 'https://arxiv.org/abs/2209.00099'
 
