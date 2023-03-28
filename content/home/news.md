@@ -19,6 +19,11 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]] 
+title = "Our <a href='../publication/efficient_methods/'>efficient NLP survey paper</a> was accepted to TACL!"
+  date_start = "2023-03-20"
+  description = 'Proud to be part of this wondeful and diverse group of researchers!'
+
+[[item]] 
 title = "Congrats to Boaz, Michael, Aviad, Yuval, and Daniel for defending their Master's theses!"
   date_start = "2023-02-01"
 
