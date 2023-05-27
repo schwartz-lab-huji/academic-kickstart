@@ -13,6 +13,7 @@ abstract: "Adaptive inference is a simple method for reducing inference costs. T
 tags:
 - green_ai
 
+
 links:
 #url_pdf: ''
 #url_code: ''
