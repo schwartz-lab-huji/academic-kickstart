@@ -19,6 +19,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]] 
+title = "Can you leverage pre-trained text models for better speech models? Check out <a href='../publication/twist'>Michael's new paper!</a>"
+  date_start = "2023-05-24"
+
+[[item]] 
+title = "Three papers accepted to ACL (1 main, 2 findings)"
+  date_start = "2023-05-02"
+  description = "Congrats to Daniel, Yuval, Aviad and Michael!"
+
+[[item]] 
 title = "Our <a href='../publication/efficient_methods/'>efficient NLP survey paper</a> was accepted to TACL!"
   date_start = "2023-03-20"
   description = 'Proud to be part of this wondeful and diverse group of researchers!'
@@ -34,10 +43,10 @@ title = "Congrats to Boaz, Michael, Aviad, Yuval, and Daniel for defending their
   description = "<img src='../pics/lab_picnic_11_2022.jpg'>"
 
 
-[[item]] 
-title = "A <a href='../publication/vasr/'>new paper</a> accepted to AAAI!"
-  date_start = "2022-11-19"
-  description = 'Congrats to Yonatan!'
+#[[item]] 
+#title = "A <a href='../publication/vasr/'>new paper</a> accepted to AAAI!"
+#  date_start = "2022-11-19"
+#  description = 'Congrats to Yonatan!'
 
 
 #[[item]] 
