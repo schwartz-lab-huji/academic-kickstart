@@ -1,6 +1,6 @@
 ---
 # Display name
-title: <a href='https://suchin.io/' target='blank'>Suchin Gururangan</a>
+title: <a href='https://suchin.io/' target="_blank" rel="noopener noreferrer">Suchin Gururangan</a>
 
 # Username (this should match the folder name)
 authors:

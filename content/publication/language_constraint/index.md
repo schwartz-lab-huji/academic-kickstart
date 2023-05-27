@@ -1,6 +1,6 @@
 ---
 title: "The Effect of Different Writing Tasks on Linguistic Style: A Case Study of the ROC Story Cloze Task"
-news: '<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://soundcloud.com/nlp-highlights/32-the-effect-of-different-writing-tasks-on-linguistic-style-with-roy-schwartz"  target="_blank">Podcast (NLP Highlights)</a>'
+news: '<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://soundcloud.com/nlp-highlights/32-the-effect-of-different-writing-tasks-on-linguistic-style-with-roy-schwartz"  target="_blank" rel="noopener noreferrer">Podcast (NLP Highlights)</a>'
 authors:
 - me
 - maarten

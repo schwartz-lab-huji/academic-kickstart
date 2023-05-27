@@ -1,6 +1,6 @@
 ---
 # Display name
-title: <a href='https://www.cs.bgu.ac.il/~elhadad/' target='blank'>Mihchael Elhadad</a>
+title: <a href='https://www.cs.bgu.ac.il/~elhadad/' target="_blank" rel="noopener noreferrer">Michael Elhadad</a>
 
 # Username (this should match the folder name)
 authors:

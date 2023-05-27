@@ -1,6 +1,6 @@
 ---
 # Display name
-title: <a href='https://scholar.google.com/citations?user=NobF_hEAAAAJ' target='blank'>Vidur Joshi</a>
+title: <a href='https://scholar.google.com/citations?user=NobF_hEAAAAJ' target="_blank" rel="noopener noreferrer">Vidur Joshi</a>
 
 # Username (this should match the folder name)
 authors:

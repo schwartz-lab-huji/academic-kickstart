@@ -22,4 +22,6 @@ url_code: 'https://github.com/allenai/cartography'
 url_pdf: 'https://arxiv.org/abs/2009.10795'
 url_video: 'https://slideslive.com/38939175/dataset-cartography-mapping-and-diagnosing-datasets-with-training-dynamics'
 #url_poster: 'poster.pdf'
+
+
 ---

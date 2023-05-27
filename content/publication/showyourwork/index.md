@@ -1,6 +1,6 @@
 ---
 title: "Show Your Work: Improved Reporting of Experimental Results "
-news: '<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.wired.com/story/artificial-intelligence-confronts-reproducibility-crisis/"  target="_blank">Wired</a>'
+news: '<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.wired.com/story/artificial-intelligence-confronts-reproducibility-crisis/"  target="_blank" rel="noopener noreferrer">Wired</a>'
 authors:
 - jesse
 - suchin

@@ -2,14 +2,16 @@
 # Display name
 
 Title: Inbal Magar
+Subtitle: 2022 &rarr; <a target="_blank" rel="noopener noreferrer" href='https://www.ai21.com/'>AI21</a>
 
-Subtitle: Masters, June 2022
 # Username (this should match the folder name)
 authors:
 - inbal
 
 # Is this the primary user of the site?
 superuser: false
+
+weight: -2
 
 
 # Role/position
@@ -20,6 +22,6 @@ superuser: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- "Alumni"
+- "<b>Alumni (MSc)</b>"
 ---
 

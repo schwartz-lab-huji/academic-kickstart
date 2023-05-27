@@ -1,6 +1,6 @@
 ---
 # Display name
-title: <a href='https://www.nyu.edu/projects/bowman/' target='blank'>Sam Bowman</a>
+title: <a href='https://www.nyu.edu/projects/bowman/' target="_blank" rel="noopener noreferrer">Sam Bowman</a>
 
 # Username (this should match the folder name)
 authors:

@@ -29,6 +29,9 @@ social:
 - icon: semantic-scholar
   icon_pack: ai
   link: https://www.semanticscholar.org/author/Roy-Schwartz/4671928
+- icon: github
+  icon_pack: fab
+  link: https://github.com/schwartz-lab-NLP
 - icon: cv
   icon_pack: ai
   link: files/CV.pdf
@@ -37,6 +40,6 @@ social:
 
 ---
 <div style='text-align:justify'>
-<a href='author/roy-schwartz/'>Roy Schwartz</a>'s lab at <a href='http://www.cs.huji.ac.il' target='_blank'>the School of Computer Science and Engineering</a> at the <a href='http://www.huji.ac.il/' target='_blank'>The Hebrew University of Jerusalem</a> studies <b>Natural Language Processing (NLP)</b>. Our research is driven towards making text understanding technology widely accessible—to doctors, to teachers, to researchers or even to curious teenagers. To be broadly adopted, NLP technology needs to not only be accurate, but also <b>reliable</b>; models should provide explanations for their outputs; and the methods we use to evaluate them need to be convincing. <br> Our lab also studies methods to make NLP technology more <b>efficient</b> and <span style='color:darkgreen'><b>green</b></span>, in order to decrease the environmental impact of the field, as well as lower the cost of AI research in order to broaden participation in it.
+<a href='author/roy-schwartz/'>Roy Schwartz</a>'s lab at <a href='http://www.cs.huji.ac.il' target="_blank" rel="noopener noreferrer">the School of Computer Science and Engineering</a> at the <a href='http://www.huji.ac.il/' target="_blank" rel="noopener noreferrer">The Hebrew University of Jerusalem</a> studies <b>Natural Language Processing (NLP)</b>. Our research is driven towards making text understanding technology widely accessible—to doctors, to teachers, to researchers or even to curious teenagers. To be broadly adopted, NLP technology needs to not only be accurate, but also <b>reliable</b>; models should provide explanations for their outputs; and the methods we use to evaluate them need to be convincing. <br> Our lab also studies methods to make NLP technology more <b>efficient</b> and <span style='color:darkgreen'><b>green</b></span>, in order to decrease the environmental impact of the field, as well as lower the cost of AI research in order to broaden participation in it.
 </div>
 

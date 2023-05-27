@@ -1,6 +1,6 @@
 ---
 # Display name
-title: <a href='http://sameersingh.org' target='blank'>Sameer Singh</a>
+title: <a href='http://sameersingh.org' target="_blank" rel="noopener noreferrer">Sameer Singh</a>
 
 # Username (this should match the folder name)
 authors:

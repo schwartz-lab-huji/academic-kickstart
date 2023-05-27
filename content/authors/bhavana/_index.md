@@ -1,6 +1,6 @@
 ---
 # Display name
-title: <a href='http://allenai.org/team/bhavanad/' target='blank'>Bhavana Dalvi</a>
+title: <a href='http://allenai.org/team/bhavanad/' target="_blank" rel="noopener noreferrer">Bhavana Dalvi</a>
 
 # Username (this should match the folder name)
 authors:

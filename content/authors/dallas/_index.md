@@ -1,6 +1,6 @@
 ---
 # Display name
-title: <a href='http://web.stanford.edu/~dcard/' target='blank'>Dallas Card</a>
+title: <a href='http://web.stanford.edu/~dcard/' target="_blank" rel="noopener noreferrer">Dallas Card</a>
 
 # Username (this should match the folder name)
 authors:

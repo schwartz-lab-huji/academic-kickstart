@@ -1,6 +1,6 @@
 ---
 # Display name
-title: <a href='https://www.cs.washington.edu/people/faculty/weld' target='blank'>Dan Weld</a>
+title: <a href='https://www.cs.washington.edu/people/faculty/weld' target="_blank" rel="noopener noreferrer">Dan Weld</a>
 
 # Username (this should match the folder name)
 authors:

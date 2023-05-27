@@ -1,6 +1,6 @@
 ---
 # Display name
-title: <a href='http://www.cl.cam.ac.uk/~alk23/' target='blank'>Anna Korhonen</a>
+title: <a href='http://www.cl.cam.ac.uk/~alk23/' target="_blank" rel="noopener noreferrer">Anna Korhonen</a>
 
 # Username (this should match the folder name)
 authors:

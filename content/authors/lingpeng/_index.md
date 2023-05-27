@@ -1,6 +1,6 @@
 ---
 # Display name
-title: <a href='https://ikekonglp.github.io/' target='blank'>Lingpeng Kong</a>
+title: <a href='https://ikekonglp.github.io/' target="_blank" rel="noopener noreferrer">Lingpeng Kong</a>
 
 # Username (this should match the folder name)
 authors:

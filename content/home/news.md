@@ -18,22 +18,63 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[item]] 
+title = "Can you leverage pre-trained text models for better speech models? Check out <a href='../publication/twist'>Michael's new paper!</a>"
+  date_start = "2023-05-24"
 
 [[item]] 
-title = "Thank you all attendees of the <a href='https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22232' target='_blank'>Efficient NLP workshop</a> in Dagstuhl!"
+title = "Three papers accepted to ACL (1 main, 2 findings)"
+  date_start = "2023-05-02"
+  description = "Congrats to Daniel, Yuval, Aviad and Michael!"
+
+[[item]] 
+title = "Our <a href='../publication/efficient_methods/'>efficient NLP survey paper</a> was accepted to TACL!"
+  date_start = "2023-03-20"
+  description = 'Proud to be part of this wondeful and diverse group of researchers!'
+
+[[item]] 
+title = "Congrats to Boaz, Michael, Aviad, Yuval, and Daniel for defending their Master's theses!"
+  date_start = "2023-02-01"
+
+
+[[item]]
+  title = "An awesome lab event in Nahal Halilim!"
+  date_start = "2022-11-18"
+  description = "<img src='../pics/lab_picnic_11_2022.jpg'>"
+
+
+#[[item]] 
+#title = "A <a href='../publication/vasr/'>new paper</a> accepted to AAAI!"
+#  date_start = "2022-11-19"
+#  description = 'Congrats to Yonatan!'
+
+
+#[[item]] 
+#title = "A <a href='../publication/how_much_does_attention/'>new paper</a> accepted to Findings of EMNLP"
+#  date_start = "2022-10-24"
+#  description = "Congrats to Michael and Daniel!"
+
+#[[item]] 
+#title = "<a href='../publication/winogavil/'>WinoGAViL paper</a> accepted to NeurIPS 2022 Track Datasets and Benchmarks track as a <span style='color:red'>featured presentation</span>!"
+#  date_start = "2022-09-18"
+#  description = 'Congrats to Yonatan, Nitzan and Ron!'
+
+
+[[item]] 
+title = 'Thank you all attendees of the <a href="https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22232" target="_blank" rel="noopener noreferrer">Efficient NLP workshop</a> in Dagstuhl!'
   date_start = "2022-06-10"
-  description = "Workshop report coming soon!<br><br><img src='https://www.dagstuhl.de/Gruppenbilder/22232.01.l.jpg'>"
+  description = "See <a href='https://drops.dagstuhl.de/opus/volltexte/2023/17454/' target='_blank' rel='noopener noreferrer'>workshop report</a> for more details!<br><br><img src='../pics/dagstuhl.jpg'>"
 
 
-[[item]] 
-title = "Congrats to Yarden and Inbal for defending their Master's theses!"
-  date_start = "2022-06-26"
+#[[item]] 
+#title = "Congrats to Yarden and Inbal for defending their Master's theses!"
+#  date_start = "2022-06-26"
 
 
-[[item]] 
-title = "A few new papers accepted recently"
-  date_start = "2022-05-15"
-  description = "<ul><li>Yarden's <a href='../publication/size_bias/'>thesis paper</a> about the connection between model size and the level of gender bias was accepted to GeBNLP. Congrats to Yarden and Inbal!</li><li>Jesse's <a href='../publication/carbon/'>paper</a> on measuring the carbon intensity of AI was accepted to FAccT. Congrats to Jesse, Taylor and the rest of the team!</li><li>Roy's <a href='../publication/dont_balance/'>paper</a> with Gabi about the lost battle against spurious correlations was accepted to Findings of NAACL 2022.</li></ul>"
+#[[item]] 
+#title = "A few new papers accepted recently"
+#  date_start = "2022-05-15"
+#  description = "<ul><li>Yarden's <a href='../publication/size_bias/'>thesis paper</a> about the connection between model size and the level of gender bias was accepted to GeBNLP. Congrats to Yarden and Inbal!</li><li>Jesse's <a href='../publication/carbon/'>paper</a> on measuring the carbon intensity of AI was accepted to FAccT. Congrats to Jesse, Taylor and the rest of the team!</li><li>Roy's <a href='../publication/dont_balance/'>paper</a> with Gabi about the lost battle against spurious correlations was accepted to Findings of NAACL 2022.</li></ul>"
  
 
 
@@ -48,10 +89,10 @@ title = "A few new papers accepted recently"
 #  date_start = "2022-02-23"
 #  description = "Congrats to Inbal and Hao! See <a href='publication'>Publications page</a> for more info."
 
-[[item]]
-  title = "An awesome lab event in Mt. Herzl!"
-  date_start = "2021-10-29"
-  description = "<img src='../pics/lab_picnic_10_2021.jpg'>"
+#[[item]]
+#  title = "An awesome lab event in Mt. Herzl!"
+#  date_start = "2021-10-29"
+#  description = "<img src='../pics/lab_picnic_10_2021.jpg'>"
 
 #[[item]]
 #  title = "New paper accepted to EMNLP 2021, and two more accepted to Findings of EMNLP"
@@ -71,7 +112,7 @@ title = "A few new papers accepted recently"
 #[[item]]
 #  title = "Check out the new Practical AI episode about <span style='color:darkgreen'>Green AI</span>" 
 #  date_start = "2021-03-01"
-#  description = '<audio data-theme="night" data-src="https://changelog.com/practicalai/124/embed" src="https://cdn.changelog.com/uploads/practicalai/124/practical-ai-124.mp3" preload="none" class="changelog-episode" controls></audio><p><a href="https://changelog.com/practicalai/124">Practical AI 124: Green AI 🌲</a> – Listen on <a href="https://changelog.com/">Changelog.com</a></p><script async src="//cdn.changelog.com/embed.js"></script>And also the news coverage at <a href="https://www.nytimes.com/2019/09/26/technology/ai-computer-expense.html" target="_blank">NYT</a>, <a href="https://fortune.com/2019/07/30/artificial-intelligence-content-moderation/" target="_blank">Fortune</a>, <a href="https://www.haaretz.co.il/captain/software/.premium-1.819476" target="_blank">Haaretz</a>, and others! Click <a href="publication/greenai/">here</a> for more info.'
+#  description = '<audio data-theme="night" data-src="https://changelog.com/practicalai/124/embed" src="https://cdn.changelog.com/uploads/practicalai/124/practical-ai-124.mp3" preload="none" class="changelog-episode" controls></audio><p><a href="https://changelog.com/practicalai/124">Practical AI 124: Green AI 🌲</a> – Listen on <a href="https://changelog.com/">Changelog.com</a></p><script async src="//cdn.changelog.com/embed.js"></script>And also the news coverage at <a href="https://www.nytimes.com/2019/09/26/technology/ai-computer-expense.html" target="_blank" rel="noopener noreferrer">NYT</a>, <a href="https://fortune.com/2019/07/30/artificial-intelligence-content-moderation/" target="_blank" rel="noopener noreferrer">Fortune</a>, <a href="https://www.haaretz.co.il/captain/software/.premium-1.819476" target="_blank" rel="noopener noreferrer">Haaretz</a>, and others! Click <a href="publication/greenai/">here</a> for more info.'
 
 
 #[[item]]

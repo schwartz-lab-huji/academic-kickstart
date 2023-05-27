@@ -1,6 +1,6 @@
 ---
 title: "A Formal Hierarchy of RNN Architectures"
-news: '<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://lambdaviking.com/post/rr-hierarchy/"  target="_blank">blog</a>'
+news: '<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://lambdaviking.com/post/rr-hierarchy/"  target="_blank" rel="noopener noreferrer">blog</a>'
 authors:
 - will
 - gail

@@ -9,6 +9,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
+weight: 1
 
 # role/position
 
@@ -17,7 +18,7 @@ superuser: false
 
 # organizational groups that you belong to (for people widget)
 #   set this to `[]` or comment out if you are not using people widget.
-user_groups:
-- "Masters Students"
+#user_groups:
+#- "<b>Masters Students</b>"
 ---
 

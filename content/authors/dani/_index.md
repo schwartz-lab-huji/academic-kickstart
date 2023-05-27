@@ -1,6 +1,6 @@
 ---
 # Display name
-title: <a href='https://dyogatama.github.io/' target='blank'>Dani Yogatama</a>
+title: <a href='https://dyogatama.github.io/' target="_blank" rel="noopener noreferrer">Dani Yogatama</a>
 
 # Username (this should match the folder name)
 authors:
