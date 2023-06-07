@@ -15,7 +15,7 @@ tags:
 - green_ai
 
 links:
-#url_pdf: ''
-#url_code: ''
+url_pdf: 'https://arxiv.org/abs/2306.02307'
+url_code: 'https://github.com/schwartz-lab-NLP/SWEET'
 
 ---
