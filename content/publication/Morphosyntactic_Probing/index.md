@@ -11,14 +11,15 @@ abstract: 'We introduce an extensive dataset for multilingual probing of morphol
 
 publication_types: ["2"]
 Date: 2023-03-01
-publishDate: 2023-03-01
+publishDate: 2023-05-25
 publication: In *Natural Language Engineering 2023*
 links:
-#url_pdf: 'https://arxiv.org/abs/2209.00099'
+url_pdf: 'https://www.cambridge.org/core/journals/natural-language-engineering/article/morphosyntactic-probing-of-multilingual-bert-models/8C0D539D3F11FB188AB73228BA7F5805'
+url_code: 'https://github.com/juditacs/morphology-probes'
 
 
-#tags:
-#- ''
+tags:
+- 'understanding_models'
 ---
 
 
