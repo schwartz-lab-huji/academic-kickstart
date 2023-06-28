@@ -3,7 +3,8 @@
 
 Title: <a href='https://yonatanbitton.github.io/' target="_blank" rel="noopener noreferrer">Yonatan Bitton</a>
 
-Subtitle: (Co-advised with <a href="https://gabrielstanovsky.github.io/" target="_blank" rel="noopener noreferrer">Gabriel Stanovsky</a>)
+Subtitle: 2023 &rarr; <a target="_blank" rel="noopener noreferrer" href='https://ai.google/'>GoogleAI</a>
+
 # Username (this should match the folder name)
 authors:
 - yonatanbitton
@@ -11,7 +12,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-weight: 1
+weight: -1
 
 
 social:
@@ -22,7 +23,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- "<b>PhD Students</b>"
+- "<b>Alumni (PhD)</b>"
 
 ---
 
