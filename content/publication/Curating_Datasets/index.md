@@ -14,7 +14,7 @@ tags:
 
 
 links:
-#url_pdf: ''
+url_pdf: 'https://aclanthology.org/2023.findings-acl.674/'
 #url_code: ''
 
 ---
