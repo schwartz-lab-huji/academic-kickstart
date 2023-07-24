@@ -24,7 +24,7 @@ title = '<a href="../publication/whoops/">WHOOPS! papaer</a> accepted to ICCV!'
   description = "Congrats to Yonatan!"
 
 [[item]] 
-title = "Congrats to Yonatan for submitting his PhD thesis!"
+title = "Congrats to Yonatan for submitting his PhD thesis and to Netta for successfully defending her Master's thesis!"
   date_start = "2023-07-01"
 
 [[item]] 
