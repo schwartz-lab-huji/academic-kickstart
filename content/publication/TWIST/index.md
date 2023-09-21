@@ -1,8 +1,8 @@
 ---
 title: "Textually Pretrained Speech Language Models"
 authors:
-- michael_hassid
-- Tal Remez
+- michael_hassidstar
+- Tal Remez*
 - Tu Anh Nguyen
 - Itai Gat
 - Alexis Conneau
@@ -11,8 +11,8 @@ authors:
 - Alexandre Defossez
 - Gabriel Synnaeve
 - Emmanuel Dupoux
-- me
-- yossi_adi
+- mestar
+- yossi_adistar
 publication_types: ["3"]
 Date: 2023-05-23
 publishDate: 2023-05-23T00:00:00Z

@@ -1,8 +1,8 @@
 ---
 title: "WinoGAViL: Gamified Association Benchmark to Challenge Vision-and-Language Models"
 authors:
-- yonatanbitton
-- Nitzan Bitton Guetta
+- yonatanbittonstar
+- Nitzan Bitton Guetta*
 - Ron Yosef
 - Yuval Elovici
 - mohitb

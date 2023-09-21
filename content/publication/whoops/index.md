@@ -1,8 +1,8 @@
 ---
 title: "Breaking Common Sense: WHOOPS! A Vision-and-Language Benchmark of Synthetic and Compositional Images"
 authors:
-- Nitzan Bitton Guetta
-- yonatanbitton
+- Nitzan Bitton Guetta*
+- yonatanbittonstar
 - Jack Hassel
 - Ludwig Schmidt
 - Yuval Elovici
