@@ -1,8 +1,8 @@
 ---
 # Display name
 
-Title: Inbal Magar
-Subtitle: 2022 &rarr; <a target="_blank" rel="noopener noreferrer" href='https://www.ai21.com/'>AI21</a>
+Title: Inbal Magar (2022)
+Subtitle: Now @<a target="_blank" rel="noopener noreferrer" href='https://www.ai21.com/'>AI21</a>
 
 # Username (this should match the folder name)
 authors:

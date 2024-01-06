@@ -1,8 +1,8 @@
 ---
 # Display name
 
-Title: Roi Tal 
-Subtitle: 2022
+Title: Roi Tal (2022)
+Subtitle: Now @<a target="_blank" rel="noopener noreferrer" href='https://www.checkpoint.com/'>Check Point</a>
 # Username (this should match the folder name)
 authors:
 - roital

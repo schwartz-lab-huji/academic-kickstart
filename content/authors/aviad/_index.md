@@ -1,8 +1,8 @@
 ---
 # Display name
 
-Title: Aviad Sar-Shalom
-Subtitle: 2023 &rarr; <a target="_blank" rel="noopener noreferrer" href='https://vendict.com/'>Vendict</a>
+Title: Aviad Sar-Shalom (2023)
+Subtitle: Now @<a target="_blank" rel="noopener noreferrer" href='https://vendict.com/'>Vendict</a>
 # Username (this should match the folder name)
 authors:
 - aviad

@@ -1,9 +1,9 @@
 ---
 # Display name
 
-Title: Netta Madvil
+Title: Netta Madvil (2023)
 # Username (this should match the folder name)
-Subtitle: 2023 #&rarr; <a target="_blank" rel="noopener noreferrer" href='https://www.ai21.com/'>AI21</a>
+#Subtitle: Now: #&rarr; <a target="_blank" rel="noopener noreferrer" href='https://www.ai21.com/'>AI21</a>
 authors:
 - netta
 

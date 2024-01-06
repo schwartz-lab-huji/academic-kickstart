@@ -23,14 +23,14 @@ title = '<a href="../publication/twist/">TWIST paper</a> accepted to NeurIPS 202
   date_start = "2023-09-22"
   description = "Congrats to Michael!"
 
-[[item]] 
-title = '<a href="../publication/whoops/">WHOOPS! paper</a> accepted to ICCV!'
-  date_start = "2023-07-14"
-  description = "Congrats to Yonatan!"
+#[[item]] 
+#title = '<a href="../publication/whoops/">WHOOPS! paper</a> accepted to ICCV!'
+#  date_start = "2023-07-14"
+#  description = "Congrats to Yonatan!"
 
-[[item]] 
-title = "Congrats to Yonatan for submitting his PhD thesis and to Netta for successfully defending her Master's thesis!"
-  date_start = "2023-07-01"
+#[[item]] 
+#title = "Congrats to Yonatan for submitting his PhD thesis and to Netta for successfully defending her Master's thesis!"
+#  date_start = "2023-07-01"
 
 #[[item]] 
 #title = "Three papers accepted to ACL (1 main, 2 findings)"
@@ -64,10 +64,10 @@ title = "Congrats to Yonatan for submitting his PhD thesis and to Netta for succ
 #  description = 'Congrats to Yonatan, Nitzan and Ron!'
 
 
-[[item]] 
-title = 'Thank you all attendees of the <a href="https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22232" target="_blank" rel="noopener noreferrer">Efficient NLP workshop</a> in Dagstuhl!'
-  date_start = "2022-06-10"
-  description = "See <a href='https://drops.dagstuhl.de/opus/volltexte/2023/17454/' target='_blank' rel='noopener noreferrer'>workshop report</a> for more details!<br><br><img src='../pics/dagstuhl.jpg'>"
+#[[item]] 
+#title = 'Thank you all attendees of the <a href="https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22232" target="_blank" rel="noopener noreferrer">Efficient NLP workshop</a> in Dagstuhl!'
+#  date_start = "2022-06-10"
+#  description = "See <a href='https://drops.dagstuhl.de/opus/volltexte/2023/17454/' target='_blank' rel='noopener noreferrer'>workshop report</a> for more details!<br><br><img src='../pics/dagstuhl.jpg'>"
 
 
 #[[item]] 
@@ -83,10 +83,10 @@ title = 'Thank you all attendees of the <a href="https://www.dagstuhl.de/en/prog
 
 
 
-[[item]]
-  title = "Our efficient NLP policy has been officially adopted by the ACL exec!"
-  date_start = "2022-04-04"
-  description = "See <a href='https://www.aclweb.org/adminwiki/images/7/7e/ACL_Efficient_NLP_Policy.pdf'>document link</a> for more details."
+#[[item]]
+#  title = "Our efficient NLP policy has been officially adopted by the ACL exec!"
+#  date_start = "2022-04-04"
+#  description = "See <a href='https://www.aclweb.org/adminwiki/images/7/7e/ACL_Efficient_NLP_Policy.pdf'>document link</a> for more details."
 
 #[[item]]
 #  title = "Two papers accepted to ACL 2022"

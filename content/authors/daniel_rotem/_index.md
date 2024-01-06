@@ -1,8 +1,8 @@
 ---
 # Display name
 
-Title: Daniel Rotem
-Subtitle: 2023 &rarr; <a target="_blank" rel="noopener noreferrer" href='https://www.mobileye.com/'>Mobileye</a>
+Title: Daniel Rotem (2023)
+Subtitle: Now @<a target="_blank" rel='noopener noreferrer' href='https://www.mobileye.com/'>Mobileye</a>
 # Username (this should match the folder name)
 authors:
 - daniel_rotem
