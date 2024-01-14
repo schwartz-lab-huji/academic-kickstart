@@ -1,7 +1,7 @@
 ---
 title: "Transformers are Multi-State RNNs"
 authors:
-- Matanel_oren*
+- matanelstar
 - michael_hassidstar
 - yossi_adi
 - me

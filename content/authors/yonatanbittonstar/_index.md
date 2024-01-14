@@ -3,8 +3,6 @@
 
 Title: <a href='https://yonatanbitton.github.io/' target="_blank" rel="noopener noreferrer">Yonatan Bitton</a>*
 
-Subtitle: 2023 &rarr; <a target="_blank" rel="noopener noreferrer" href='https://ai.google/'>GoogleAI</a>
-
 # Username (this should match the folder name)
 authors:
 - yonatanbittonstar

@@ -1,9 +1,9 @@
 ---
 # Display name
 
-Title: <a href='https://yonatanbitton.github.io/' target="_blank" rel="noopener noreferrer">Yonatan Bitton</a> (2023)
+Title: <a href='https://yonatanbitton.github.io/' target="_blank" rel="noopener noreferrer">Yonatan Bitton</a>
 
-Subtitle: Now @<a target="_blank" rel="noopener noreferrer" href='https://ai.google/'>GoogleAI</a>
+Subtitle: 2003, now @<a target="_blank" rel="noopener noreferrer" href='https://ai.google/'>GoogleAI</a>
 
 # Username (this should match the folder name)
 authors:

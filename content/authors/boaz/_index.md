@@ -1,8 +1,8 @@
 ---
 # Display name
 
-Title: Boaz Beldinger (2022)
-Subtitle: Now @IDF
+Title: Boaz Beldinger
+Subtitle: 2022, now @IDF
 # Username (this should match the folder name)
 authors:
 - boaz

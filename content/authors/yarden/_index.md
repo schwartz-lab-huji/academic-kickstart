@@ -1,8 +1,8 @@
 ---
 # Display name
 
-Title: Yarden Tal (2022)
-Subtitle: Now @<a target="_blank" rel="noopener noreferrer" href='https://www.sparkbeyond.com/'>SparkBeyond</a>
+Title: Yarden Tal
+Subtitle: 2022, now @<a target="_blank" rel="noopener noreferrer" href='https://www.sparkbeyond.com/'>SparkBeyond</a>
 
 # Username (this should match the folder name)
 authors:
