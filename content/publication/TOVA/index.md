@@ -1,5 +1,7 @@
 ---
 title: "Transformers are Multi-State RNNs"
+news: '<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.marktechpost.com/2024/01/15/this-ai-paper-demonstrates-how-decoder-only-transformers-mimic-infinite-multi-state-recurrent-neural-networks-rnns-and-introduces-tova-for-enhanced-efficiency/"  target="_blank" rel="noopener noreferrer">MarkTechPost</a>'
+
 authors:
 - matanelstar
 - michael_hassidstar

@@ -19,9 +19,14 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]] 
-title = '<a href="../publication/twist/">TWIST paper</a> accepted to NeurIPS 2023!'
-  date_start = "2023-09-22"
-  description = "Congrats to Michael!"
+title = 'Excited to contribute to the <a href="https://www.markey.senate.gov/news/press-releases/markey-heinrich-eshoo-beyer-introduce-legislation-to-investigate-measure-environmental-impacts-of-artificial-intelligence" target="_blank" rel="noopener noreferrer">AI Environmental Impacts Act</a> by Senators Markey and Heinrich!'
+date_start = "2024-02-01"
+
+
+#[[item]] 
+#title = '<a href="../publication/twist/">TWIST paper</a> accepted to NeurIPS 2023!'
+#  date_start = "2023-09-22"
+#  description = "Congrats to Michael!"
 
 #[[item]] 
 #title = '<a href="../publication/whoops/">WHOOPS! paper</a> accepted to ICCV!'
