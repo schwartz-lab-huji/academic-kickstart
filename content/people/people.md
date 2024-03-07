@@ -17,7 +17,7 @@ subtitle = ""
                  "<b>Postdocs</b>",
                  "<b>PhD Students</b>",
                  "<b>Masters Students</b>",
-#                 "<b>Undergrads</b>",
+                 "<b>Undergrads</b>",
                  "<b>Lab Project</b>",
                  "<b>Alumni (PhD)</b>",
                  "<b>Alumni (MSc)</b>",
