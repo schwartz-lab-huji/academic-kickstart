@@ -17,6 +17,10 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[item]] 
+title = 'Congrats to Yuval for getting his <a href="../publication/Label_Bias/">LLM label bias</a> accepted to NAACL 2024!'
+  date_start = "2024-03-13"
+
 
 [[item]] 
 title = 'Excited to contribute to the <a href="https://www.markey.senate.gov/news/press-releases/markey-heinrich-eshoo-beyer-introduce-legislation-to-investigate-measure-environmental-impacts-of-artificial-intelligence" target="_blank" rel="noopener noreferrer">AI Environmental Impacts Act</a> by Senators Markey and Heinrich!'
