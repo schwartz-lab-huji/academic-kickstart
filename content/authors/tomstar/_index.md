@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Tom Hope*
+title: 
+title: <a href='https://tomhoper.github.io/' target="_blank" rel="noopener noreferrer">Tom Hope</a>*
 
 # Username (this should match the folder name)
 authors:
@@ -13,4 +14,5 @@ superuser: false
 social:
 - icon: home
   icon_pack: fas
+  link: 'https://tomhoper.github.io/'
 ---
