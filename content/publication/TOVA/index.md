@@ -5,6 +5,7 @@ news: '<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.mar
 authors:
 - matanelstar
 - michael_hassidstar
+- nir_yarden
 - yossi_adi
 - me
 publication_types: ["3"]
@@ -12,7 +13,7 @@ Date: 2024-01-12
 publishDate: 2024-01-12T00:00:00Z
 publication: <i>arXiv:2401.06104</i>
 
-abstract: 'Transformers are considered conceptually different compared to the previous generation of state-of-the-art NLP models - recurrent neural networks (RNNs). In this work, we demonstrate that decoder-only transformers can in fact be conceptualized as infinite multi-state RNNs - an RNN variant with unlimited hidden state size. We further show that pretrained transformers can be converted into finite multi-state RNNs by fixing the size of their hidden state. We observe that several existing transformers cache compression techniques can be framed as such conversion policies, and introduce a novel policy, TOVA, which is simpler compared to these policies. Our experiments with several long range tasks indicate that TOVA outperforms all other baseline policies, while being nearly on par with the full (infinite) model, and using in some cases only 18 of the original cache size. Our results indicate that transformer decoder LLMs often behave in practice as RNNs. They also lay out the option of mitigating one of their most painful computational bottlenecks - the size of their cache memory. We publicly release our code.'
+abstract: "Transformers are considered conceptually different from the previous generation of state-of-the-art NLP models - recurrent neural networks (RNNs). In this work, we demonstrate that decoder-only transformers can in fact be conceptualized as unbounded multi-state RNNs - an RNN variant with unlimited hidden state size. We further show that transformers can be converted into bounded multi-state RNNs by fixing the size of their hidden state, effectively compressing their key-value cache. We introduce a novel, training-free compression policy - Token Omission Via Attention (TOVA). Our experiments with four long range tasks and several LLMs show that TOVA outperforms several baseline compression policies. Particularly, our results are nearly on par with the full model, using in some cases only 18 of the original cache size, which translates to 4.8X higher throughput. Our results shed light on the connection between transformers and RNNs, and help mitigate one of LLMs' most painful computational bottlenecks - the size of their key-value cache. We publicly release our code."
 
 tags:
 - greenai
