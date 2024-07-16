@@ -61,6 +61,11 @@
   weight = 96
 
 [[main]]
+  name = "ייעוץ"
+  url = "advisory"
+  weight = 97
+
+[[main]]
   name = "Contact"
   url = "#contact"
   weight = 100
