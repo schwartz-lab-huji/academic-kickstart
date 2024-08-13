@@ -3,7 +3,7 @@
 
 Title: Netta Madvil
 # Username (this should match the folder name)
-Subtitle: 2023, now @<a target="_blank" rel="noopener noreferrer" href='https://deepchecks.com/'>Deepchecks</a>
+Subtitle: 2023 &rarr; <a target="_blank" rel="noopener noreferrer" href='https://deepchecks.com/'>Deepchecks</a>
 authors:
 - netta
 

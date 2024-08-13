@@ -2,7 +2,7 @@
 # Display name
 
 Title: Roi Tal
-Subtitle: 2022, now @<a target="_blank" rel="noopener noreferrer" href='https://www.checkpoint.com/'>Check Point</a>
+Subtitle: 2022 &rarr; <a target="_blank" rel="noopener noreferrer" href='https://www.checkpoint.com/'>Check Point</a>
 # Username (this should match the folder name)
 authors:
 - roital

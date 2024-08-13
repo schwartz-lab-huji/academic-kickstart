@@ -2,7 +2,7 @@
 # Display name
 
 Title: Haya Riesel
-Subtitle: 2024
+Subtitle: 2024 &rarr; <a href='https://www.aspectiva.com/' target="_blank" rel="noopener noreferrer">Walmart Aspectiva</a>
 # Username (this should match the folder name)
 authors:
 - haya

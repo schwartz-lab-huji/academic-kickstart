@@ -3,7 +3,7 @@
 
 Title: <a href='https://yonatanbitton.github.io/' target="_blank" rel="noopener noreferrer">Yonatan Bitton</a>
 
-Subtitle: 2023, co-advised with <a target="_blank" rel="noopener noreferrer" href='https://gabrielstanovsky.github.io/'>Gabriel Stanovsky</a>, now @<a target="_blank" rel="noopener noreferrer" href='https://ai.google/'>GoogleAI</a>
+Subtitle: 2023 (co-advised with <a target="_blank" rel="noopener noreferrer" href='https://gabrielstanovsky.github.io/'>Gabriel Stanovsky</a>) &rarr; <a target="_blank" rel="noopener noreferrer" href='https://ai.google/'>GoogleAI</a>
 
 # Username (this should match the folder name)
 authors:
