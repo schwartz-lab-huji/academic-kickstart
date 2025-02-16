@@ -18,12 +18,16 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[item]] 
-title = 'Congrats to Michael for getting his <a href="../publication/larger_better/">paper</a> accepted to COLM 2024!'
-  date_start = "2024-03-13"
+title = 'Congrats to Guy, Matanel and Yuval for getting their <a href="../publication/token2word/">LLM detokenization paper</a> accepted to ICLR 2025!'
+  date_start = "2025-01-22"
 
-[[item]] 
-title = 'Congrats to Yuval for getting his <a href="../publication/Label_Bias/">LLM label bias</a> accepted to NAACL 2024!'
-  date_start = "2024-03-13"
+#[[item]] 
+#title = 'Congrats to Michael for getting his <a href="../publication/larger_better/">paper</a> accepted to COLM 2024!'
+#  date_start = "2024-03-13"
+
+#[[item]] 
+#title = 'Congrats to Yuval for getting his <a href="../publication/Label_Bias/">LLM label bias</a> accepted to NAACL 2024!'
+#  date_start = "2024-03-13"
 
 
 [[item]] 
