@@ -18,6 +18,10 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[item]] 
+title = "Congrats to Matanel for successfully defending his Master's thesis!"
+  date_start = "2025-03-11"
+
+[[item]] 
 title = 'Congrats to Guy, Matanel and Yuval for getting their <a href="../publication/token2word/">LLM detokenization paper</a> accepted to ICLR 2025!'
   date_start = "2025-01-22"
 
