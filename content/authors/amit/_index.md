@@ -1,7 +1,7 @@
 ---
 # Display name
 
-Title: Amit Ben Artzy
+Title: <a href="https://amit-ba.github.io/" target="_blank" rel="noopener noreferrer">Amit Ben Artzy</a>
 # Username (this should match the folder name)
 authors:
 - amit

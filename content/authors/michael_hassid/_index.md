@@ -1,7 +1,7 @@
 ---
 # Display name
 
-Title: Michael Hassid
+Title: <a href="https://hassidm.github.io/" target="_blank" rel="noopener noreferrer">Michael Hassid</a>
 Subtitle: (Co-advised with <a href="https://www.cs.huji.ac.il/~adiyoss/" target="_blank" rel="noopener noreferrer">Yossi Adi</a>)
 
 # Username (this should match the folder name)
