@@ -2,7 +2,7 @@
 # Display name
 
 Title: Yuval Arbel
-Subtitle: 2024
+Subtitle: 2024 &rarr; <a target="_blank" rel='noopener noreferrer' href='https://act.security/'>Act</a>
 # Username (this should match the folder name)
 authors:
 - yuval_arbel
