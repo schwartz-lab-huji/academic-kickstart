@@ -18,13 +18,19 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[item]] 
-title = "Congrats to Tamer for successfully defending his Master's thesis!"
-  date_start = "2025-09-03"
-  
+title = "Congrats to Maoz for successfully defending his Master's thesis!"
+  date_start = "2026-04-28"
+
 [[item]] 
+title = 'Congrats to Guy and Yuval for getting their <a href="../publication/follow_the_flow/">Follow the flow paper</a> accepted to ACL 2026, and their <a href="../publication/vocab_diet/">Vocab diet paper</a> to Findings of ACL 2026!'
+   date_start = "2026-04-05"
+
+
+  
+#[[item]] 
 #title = 'Congrats to Tamer and Michael for getting their <a href="../publication/on_pruning_state-space/">SSM Pruning paper</a> accepted to EMNLP 2025, and to Yuval and Guy for getting their #<a href="../publication/Vocab_Diet/">Vocab diet paper</a> accepted to Findings of EMNLP 2025!'
-title = 'Congrats to Tamer and Michael for getting their <a href="../publication/on_pruning_state-space/">SSM Pruning paper</a> accepted to EMNLP 2025'
-  date_start = "2025-08-20"
+#title = 'Congrats to Tamer and Michael for getting their <a href="../publication/on_pruning_state-space/">SSM Pruning paper</a> accepted to EMNLP 2025'
+#  date_start = "2025-08-20"
  
 
 #[[item]] 
@@ -44,9 +50,9 @@ title = 'Congrats to Tamer and Michael for getting their <a href="../publication
 #  date_start = "2024-03-13"
 
 
-[[item]] 
-title = 'Excited to contribute to the <a href="https://www.markey.senate.gov/news/press-releases/markey-heinrich-eshoo-beyer-introduce-legislation-to-investigate-measure-environmental-impacts-of-artificial-intelligence" target="_blank" rel="noopener noreferrer">AI Environmental Impacts Act</a> by Senators Markey and Heinrich!'
-date_start = "2024-02-01"
+#[[item]] 
+#title = 'Excited to contribute to the <a href="https://www.markey.senate.gov/news/press-releases/markey-heinrich-eshoo-beyer-introduce-legislation-to-investigate-measure-environmental-impacts-of-artificial-intelligence" target="_blank" rel="noopener noreferrer">AI Environmental Impacts Act</a> by Senators Markey and Heinrich!'
+#date_start = "2024-02-01"
 
 
 #[[item]] 
