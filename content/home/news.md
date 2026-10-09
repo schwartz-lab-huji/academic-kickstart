@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[item]] 
-title = 'Congrats to Guy and Yuval for getting their <a href="../publication/why_fine-tuning_encourages/">Fine-tuning-induced Hallucinations paper</a> and <a href="../publication/CoBPE/">CoBPE paper</a> accepted to COLM 2026!'
+title = 'Congrats to Guy and Yuval for getting their <a href="../publication/why_fine-tuning_encourages/">Fine-tuning-induced Hallucinations paper</a> and <a href="../publication/more_than_words/">CoBPE paper</a> (oral presentation!) accepted to COLM 2026!'
    date_start = "2026-07-08"
 
 
