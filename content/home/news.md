@@ -18,6 +18,14 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[item]] 
+title = 'We are organizing <a href="https://iscol-meeting.github.io/iscol2026/" target="_blank" rel="noopener">ISCOL 2026</a>, the Israel Seminar on Computational Linguistics. It will be held on <strong>December 23, 2026</strong> at the Hebrew University of Jerusalem. Come share your work, meet the Israeli NLP community, and say hi!'
+   date_start = "2026-11-04"
+
+[[item]] 
+title = "Congrats to Nir for successfully defending his Master's thesis!"
+   date_start = "2026-11-03"
+
+[[item]] 
 title = 'Congrats to Amit for getting her <a href="../publication/global_divergence_local/">SSM geometry paper</a> accepted to EMNLP 2026!'
    date_start = "2026-08-20"
 

@@ -273,4 +273,7 @@ plugins_js  = []
 ############################
 [cms]
   # See https://sourcethemes.com/academic/docs/install/#install-with-web-browser
-  netlify_cms = true
+  # Disabled: identity.netlify.com no longer accepts connections, and the
+  # theme injects its widget as a blocking <script> on the homepage only,
+  # stalling page load until the TCP connection times out.
+  netlify_cms = false
