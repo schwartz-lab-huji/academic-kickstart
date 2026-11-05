@@ -1,0 +1,39 @@
+---
+title: "What Can Natural Language Processing Do for Peer Review?"
+
+authors:
+- Ilia Kuznetsov
+- Osama Mohammed Afzal
+- Koen Dercksen
+- Nils Dycke
+- Alexander Goldberg
+- tom
+- Dirk Hovy
+- Jonathan K. Kummerfeld
+- Anne Lauscher
+- Kevin Leyton-Brown
+- Sheng Lu
+- Mausam
+- Margot Mieskes
+- Aurélie Névéol
+- Danish Pruthi
+- Lizhen Qu
+- me
+- noah
+- Thamar Solorio
+- Jingyan Wang
+- Xiaodan Zhu
+- Anna Rogers
+- Nihar B. Shah
+- iryna
+
+publication_types: ["3"]
+Date: 2024-05-13
+publishDate: 2024-05-1300:00:00Z
+publication: <i>arXiv:2405.06563</i>
+
+abstract: "The number of scientific articles produced every year is growing rapidly. Providing quality control over them is crucial for scientists and, ultimately, for the public good. In modern science, this process is largely delegated to peer review -- a distributed procedure in which each submission is evaluated by several independent experts in the field. Peer review is widely used, yet it is hard, time-consuming, and prone to error. Since the artifacts involved in peer review -- manuscripts, reviews, discussions -- are largely text-based, Natural Language Processing has great potential to improve reviewing. As the emergence of large language models (LLMs) has enabled NLP assistance for many new tasks, the discussion on machine-assisted peer review is picking up the pace. Yet, where exactly is help needed, where can NLP help, and where should it stand aside? The goal of our paper is to provide a foundation for the future efforts in NLP for peer-reviewing assistance. We discuss peer review as a general process, exemplified by reviewing at AI conferences. We detail each step of the process from manuscript submission to camera-ready revision, and discuss the associated challenges and opportunities for NLP assistance, illustrated by existing work. We then turn to the big challenges in NLP for peer review as a whole, including data acquisition and licensing, operationalization and experimentation, and ethical issues. To help consolidate community efforts, we create a companion repository that aggregates key datasets pertaining to peer review. Finally, we issue a detailed call for action for the scientific community, NLP and AI researchers, policymakers, and funding bodies to help bring the research in NLP for peer review forward. We hope that our work will help set the agenda for research in machine-assisted scientific quality control in the age of AI, within the NLP community and beyond."
+
+links:
+url_pdf: "https://arxiv.org/abs/2405.06563"
+---
