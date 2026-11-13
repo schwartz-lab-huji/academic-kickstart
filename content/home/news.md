@@ -19,33 +19,37 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[item]] 
 title = 'We are organizing <a href="https://iscol-meeting.github.io/iscol2026/" target="_blank" rel="noopener">ISCOL 2026</a>, the Israel Seminar on Computational Linguistics. It will be held on <strong>December 23, 2026</strong> at the Hebrew University of Jerusalem. Come share your work, meet the Israeli NLP community, and say hi!'
-   date_start = "2026-11-04"
+   date_start = "2026-11-14"
 
 [[item]] 
 title = "Congrats to Nir for successfully defending his Master's thesis!"
    date_start = "2026-11-03"
 
 [[item]] 
+title = 'Congrats to Michael for getting his <a href="../publication/post-training_is_massive/">post-training paper</a> accepted to Findings of EACL 2027!'
+   date_start = "2026-11-13"
+
+[[item]] 
 title = 'Congrats to Amit for getting her <a href="../publication/global_divergence_local/">SSM geometry paper</a> accepted to EMNLP 2026!'
    date_start = "2026-08-20"
 
-[[item]] 
-title = 'Congrats to Guy and Yuval for getting their <a href="../publication/why_fine-tuning_encourages/">Fine-tuning-induced Hallucinations paper</a> and <a href="../publication/more_than_words/">CoBPE paper</a> (oral presentation!) accepted to COLM 2026!'
-   date_start = "2026-07-08"
+#[[item]] 
+#title = 'Congrats to Guy and Yuval for getting their <a href="../publication/why_fine-tuning_encourages/">Fine-tuning-induced Hallucinations paper</a> and <a href="../publication/more_than_words/">CoBPE paper</a> (oral presentation!) accepted to COLM 2026!'
+#   date_start = "2026-07-08"
 
 
-[[item]] 
-title = "Congrats to Michael for submitting his PhD thesis!"
-  date_start = "2026-05-01"
+#[[item]] 
+#title = "Congrats to Michael for submitting his PhD thesis!"
+#  date_start = "2026-05-01"
 
 
-[[item]] 
-title = "Congrats to Maoz for successfully defending his Master's thesis!"
-  date_start = "2026-04-28"
+#[[item]] 
+#title = "Congrats to Maoz for successfully defending his Master's thesis!"
+#  date_start = "2026-04-28"
 
-[[item]] 
-title = 'Congrats to Guy and Yuval for getting their <a href="../publication/follow_the_flow/">Follow the flow paper</a> accepted to ACL 2026, and their <a href="../publication/vocab_diet/">Vocab diet paper</a> to Findings of ACL 2026!'
-   date_start = "2026-04-05"
+#[[item]] 
+#title = 'Congrats to Guy and Yuval for getting their <a href="../publication/follow_the_flow/">Follow the flow paper</a> accepted to ACL 2026, and their <a href="../publication/vocab_diet/">Vocab diet paper</a> to Findings of ACL 2026!'
+#   date_start = "2026-04-05"
 
 
   
